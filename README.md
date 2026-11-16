@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -293,3 +294,6 @@ See the [open issues](https://github.com/adamsissoko/CS465/issues) for a full li
 [Mongodb-url]: https://www.mongodb.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
+=======
+# CS465
+>>>>>>> 2626c58edba32a7003568626c398c494b79c20ad
